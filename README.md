@@ -2,7 +2,8 @@
 
 AI-powered budgeting assistant for college students.
 
-**Built for:** EMB & FMA Case Competition  
+**Built for:** EMB & FMA Case Competition
+**My Placement:** 2nd Place
 **Sponsored by:** KPMG, Fidelity, JP Morgan  
 **Prize:** $3,000 / $2,000 / $1,000
 
