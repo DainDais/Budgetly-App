@@ -1,17 +1,28 @@
 # Budgetly 📈
 
-AI-powered budgeting assistant for college students.
+AI-powered budgeting assistant designed for college students.
 
-**Built for:** EMB & FMA Case Competition
+**Competition:** EMB & FMA Fintech Case Competition  
+**Sponsors:** KPMG • Fidelity • JP Morgan Chase  
 **My Placement:** 2nd Place
-**Sponsored by:** KPMG, Fidelity, JP Morgan  
-**Prize:** $3,000 / $2,000 / $1,000
+**Awards:** $3,000 • $2,000 • $1,000
 
 ## Features
-- 🏦 Multi-bank theme switching
-- 📊 Smart spending analytics
-- 💰 Savings opportunity alerts
-- 🚗 Gig work recommendations
-- 🗺️ AI shopping location finder
+- 🏦 **Multi-Bank Integration** - Switch between Chase, Fidelity, KPMG, and Cash App themes
+- 📊 **Smart Analytics** - Visual spending breakdown with animated bubbles
+- 💰 **Savings Alerts** - AI-powered cheaper alternative recommendations
+- 🚗 **Gig Opportunities** - Real-time side hustle suggestions (DoorDash, Uber, TaskRabbit, Instacart)
+- 🗺️ **AI Shopping Map** - Find better deals at nearby locations (Greensboro, NC)
 
-**Live Demo:** [https://YOUR-USERNAME.github.io/budgetly-app/](https://YOUR-USERNAME.github.io/budgetly-app/)
+## Live Demo
+**[View Budgetly →](https://daindais.github.io/budgetly-app/)**
+
+## Tech Stack
+- React (via CDN)
+- Tailwind CSS
+- Animated SVG graphics
+- Responsive mobile-first design
+
+---
+
+*Developed for the 2026 EMB & FMA Case Competition*
